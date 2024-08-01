@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    background-position: center;
+    background-size: cover;
+    background-image: url('img/back.jpg');
+  }
+  
+  .container {
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.8); /* Background putih dengan transparansi 80% */
+    padding: 20px;
+    border-radius: 10px; /* Opsional: Membuat sudut melengkung */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Opsional: Menambahkan bayangan */
+  }
+  
+  input {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    
+  }
+  
+  .hasil {
+    margin-top: 20px;
+  }
+  
+  .hasil img {
+    max-width: 320px;
+    margin-top: 10px;
+  }
+
+  /* @media(max-width:) */
