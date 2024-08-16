@@ -12,10 +12,10 @@ body {
   
   .container {
     text-align: center;
-    background-color: rgba(255, 255, 255, 0.8); /* Background putih dengan transparansi 80% */
+    background-color: rgba(255, 255, 255, 0.8);
     padding: 20px;
-    border-radius: 10px; /* Opsional: Membuat sudut melengkung */
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Opsional: Menambahkan bayangan */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   }
   
   input {
@@ -37,5 +37,3 @@ body {
     max-width: 320px;
     margin-top: 10px;
   }
-
-  /* @media(max-width:) */
